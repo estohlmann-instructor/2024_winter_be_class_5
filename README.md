@@ -7,7 +7,7 @@
 
 ### Requirements:
 
-1. Create a Product class with the following attributes:
+1. Create a `Product` class with the following attributes:
 - Product ID (int)
 - Product Name (String)
 - Price (double)
